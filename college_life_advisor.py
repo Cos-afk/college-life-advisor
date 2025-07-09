@@ -1,6 +1,6 @@
 
 
-print("🎓 Welcome to the College Life Advisor!")
+print(" Welcome to the College Life Advisor!")
 
 name = input("What is your name? ")
 gpa = float(input("What is your current GPA? "))
@@ -24,7 +24,7 @@ else:
     exam_advice = "Use today to catch up or get ahead – balance is key."
 
 
-print("\n🎯 Final Report:")
+print(" Final Report:")
 print(f"Good luck, {name}!")
 print(f"Your GPA is: {gpa}")
 print(f"You got {sleep_hours} hours of sleep.")
